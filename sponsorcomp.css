@@ -1,0 +1,33 @@
+
+.center {
+	text-align: center;
+	margin-top: 65px;
+}
+
+h1 {
+	font-size: 50px;
+    padding-bottom: 50px;
+}
+
+h2 {
+	margin-left: 5px;
+    margin-bottom: 15px;
+    font-family: Verdana, sans-serif;
+}
+
+h3 {
+	padding: 20px;
+	font-size: 23px;
+}
+
+select {
+	width: 18%;
+	padding: 8px;
+	font-size: 16px;
+}
+
+input[type="company"]{
+	padding: 10px;
+	font-size: 16px;
+	width: 16%;
+}
